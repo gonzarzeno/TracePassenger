@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trace Passenger</string>
+    <string name="Passengers">Pasajeros</string>
+    <string name="Groups">Grupos</string>
+    <string name="Activity">Actividad</string>
+    <string name="Home">Home</string>
+    <string name="AddGroup">Añadir grupo</string>
+    <string name="EditGroup">Editar grupo</string>
+    <string name="GroupName">Nombre de grupo</string>
+    <string name="Identifier">Identificador</string>
+    <string name="CoordinatorName">Nombre coordinador</string>
+    <string name="Save">Guardar</string>
+    <string name="AddEditGroupSucces">Grupo guardado correctamente</string>
+    <string name="NotEmptyInputsAllowed">Los campos no pueden quedar vacios</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="Delete">Eliminar</string>
+</resources>
